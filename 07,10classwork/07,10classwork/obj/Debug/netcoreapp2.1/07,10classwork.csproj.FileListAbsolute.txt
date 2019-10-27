@@ -1,0 +1,11 @@
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\bin\Debug\netcoreapp2.1\07,10classwork.deps.json
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\bin\Debug\netcoreapp2.1\07,10classwork.runtimeconfig.json
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\bin\Debug\netcoreapp2.1\07,10classwork.runtimeconfig.dev.json
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\bin\Debug\netcoreapp2.1\07,10classwork.dll
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\bin\Debug\netcoreapp2.1\07,10classwork.pdb
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\obj\Debug\netcoreapp2.1\07,10classwork.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\obj\Debug\netcoreapp2.1\07,10classwork.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\obj\Debug\netcoreapp2.1\07,10classwork.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\obj\Debug\netcoreapp2.1\07,10classwork.AssemblyInfo.cs
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\obj\Debug\netcoreapp2.1\07,10classwork.dll
+C:\Users\пк\source\repos\07,10classwork\07,10classwork\obj\Debug\netcoreapp2.1\07,10classwork.pdb
