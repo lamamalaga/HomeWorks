@@ -1,0 +1,6 @@
+C:\gitt\AreaPerimeterOfTheRhombus\bin\Debug\AreaPerimeterOfTheRhombus.exe.config
+C:\gitt\AreaPerimeterOfTheRhombus\bin\Debug\AreaPerimeterOfTheRhombus.exe
+C:\gitt\AreaPerimeterOfTheRhombus\bin\Debug\AreaPerimeterOfTheRhombus.pdb
+C:\gitt\AreaPerimeterOfTheRhombus\obj\Debug\AreaPerimeterOfTheRhombus.csprojAssemblyReference.cache
+C:\gitt\AreaPerimeterOfTheRhombus\obj\Debug\AreaPerimeterOfTheRhombus.exe
+C:\gitt\AreaPerimeterOfTheRhombus\obj\Debug\AreaPerimeterOfTheRhombus.pdb
