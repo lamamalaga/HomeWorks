@@ -1,0 +1,6 @@
+C:\gitt\HOMEWORK\KnowQuarter\bin\Debug\KnowQuarter.exe.config
+C:\gitt\HOMEWORK\KnowQuarter\bin\Debug\KnowQuarter.exe
+C:\gitt\HOMEWORK\KnowQuarter\bin\Debug\KnowQuarter.pdb
+C:\gitt\HOMEWORK\KnowQuarter\obj\Debug\KnowQuarter.csprojAssemblyReference.cache
+C:\gitt\HOMEWORK\KnowQuarter\obj\Debug\KnowQuarter.exe
+C:\gitt\HOMEWORK\KnowQuarter\obj\Debug\KnowQuarter.pdb

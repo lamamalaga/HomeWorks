@@ -1,0 +1,6 @@
+C:\gitt\Uslov.Operator.Task4\bin\Debug\Uslov.Operator.Task4.exe.config
+C:\gitt\Uslov.Operator.Task4\bin\Debug\Uslov.Operator.Task4.exe
+C:\gitt\Uslov.Operator.Task4\bin\Debug\Uslov.Operator.Task4.pdb
+C:\gitt\Uslov.Operator.Task4\obj\Debug\Uslov.Operator.Task4.csprojAssemblyReference.cache
+C:\gitt\Uslov.Operator.Task4\obj\Debug\Uslov.Operator.Task4.exe
+C:\gitt\Uslov.Operator.Task4\obj\Debug\Uslov.Operator.Task4.pdb
